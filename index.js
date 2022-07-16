@@ -30,7 +30,7 @@ inquirer.prompt([
         name: 'license',
         type:'list',
         message: 'Please choose a license for your application',
-        choices: ['Public domain license', 'LGPL', 'Permissive', 'Copyleft', 'Proprietary'],
+        choices: ['MIT', 'GPL 3.0', 'BSD 3', 'APACHE 2.0', 'None'],
     },
     {
         name:'contribution',
@@ -43,7 +43,7 @@ inquirer.prompt([
         message: 'What are the test insturctions?',
     },
     {
-        name: 'github',
+        name: 'questions',
         type:'input',
         message: 'What is your Github username?',
     },

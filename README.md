@@ -1,4 +1,4 @@
-# a
+# MakeMe ReadMe
 #Table of Contents 
 ---------------------------------------
 ## [Description](#description)
@@ -10,24 +10,26 @@
 ## [Questions](#questions)
 -----------------------------------
 # Description 
-b
+sada
 
 # Installation 
-c
+asdas
 
 # Usage 
-d
+sadsa
 
 # License 
-Public domain license
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # Contributing
 undefined
 
 # Tests
-f
+dasasd
 
 # Questions
-undefined
+https://github.com/undefined
+<br>
+For additional questions, you can email me at asdasdas
 
 

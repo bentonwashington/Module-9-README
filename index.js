@@ -40,7 +40,7 @@ inquirer.prompt([
     {
         name:'tests',
         type: 'input',
-        message: 'What are the test insturctions?',
+        message: 'What are the test instructions?',
     },
     {
         name: 'questions',
